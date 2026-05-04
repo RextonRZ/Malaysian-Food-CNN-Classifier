@@ -127,4 +127,4 @@ This classification model holds practical value for Malaysian Small and Medium E
 ---
 
 ## Author
-[Ooi Rui Zhe](https://github.com/RextonRZ)
+[Ooi Rui Zhe (Rexton)](https://github.com/RextonRZ)
