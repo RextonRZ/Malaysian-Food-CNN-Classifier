@@ -16,8 +16,7 @@
 - [Project Structure](#project-structure)
 - [Model Architectures](#model-architectures)
 - [Results & Performance](#results--performance)
--[Business Applications](#business-applications)
-- [Author](#author)
+- [Business Applications](#business-applications)
 
 ---
 
