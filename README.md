@@ -10,53 +10,48 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white" alt="Jupyter">
 </p>
 
-## 📖 Table of Contents
+## Table of Contents
 - [About the Project](#about-the-project)
 - [Dataset](#dataset)
 - [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
+- [Model Architectures](#model-architectures)
 - [Results & Performance](#results--performance)
-- [Business Applications](#business-applications)
+-[Business Applications](#business-applications)
 - [Author](#author)
 
 ---
 
-## 🚀 About the Project
+## About the Project
 
-This repository contains the implementation of an image classification pipeline designed to identify 5 popular Malaysian dishes. It was developed as part of the WID3011 Deep Learning coursework. 
+This repository contains an image classification pipeline designed to identify 5 popular Malaysian dishes. Developed for the WID3011 Deep Learning coursework, the project explores the performance gap between a scratch-built architecture and industry-standard transfer learning.
 
-The project explores and compares two distinct architectural approaches:
-1. **Custom CNN:** A 6-layer convolutional neural network (approx. 13.28M parameters) built from scratch utilizing a VGG-style pattern for fine-grained texture extraction.
-2. **Transfer Learning (ResNet-50):** A pre-trained ResNet-50 model adapted via a two-stage fine-tuning strategy (head warm-up followed by end-to-end unfreezing).
+The study compares:
+1. **Custom CNN:** A 6-layer architecture designed for fine-grained texture extraction.
+2. **Transfer Learning (ResNet-50):** A pre-trained model adapted via a two-stage fine-tuning strategy.
 
-## 📊 Dataset
+## Dataset
 
-The model is trained on a curated subset of the **IEEE DataPort MF-150 Multilabel Malaysian Foods Dataset** (Tahir & Loo, 2020). 
+The models are trained on a curated subset of the **IEEE DataPort MF-150 Multilabel Malaysian Foods Dataset** (Tahir & Loo, 2020).
 
 * **Classes (5):** Murtabak, Satay, Chicken Bak Kut Teh, Char Kuey Teow, and Hong Kong Wonton Noodles.
-* **Size:** 979 total images.
-* **Split:** Stratified 70% Training / 15% Validation / 15% Testing.
-* **Imbalance Handling:** Class-weighted cross-entropy loss.
+* **Size:** 979 total images, utilizing a stratified 70% Training / 15% Validation / 15% Testing split.
+* **Pre-processing:** Class-weighted cross-entropy loss was implemented to handle inherent dataset imbalances.
 
-### 🔗 Data Sources
-
-- **Original Dataset (IEEE DataPort):**  
-  https://ieee-dataport.org/open-access/mf-150-multilabel-malaysian-foods-dataset  
-
-- **Processed Dataset (used in this project):**  
-  https://drive.google.com/drive/folders/1iKM2peSh0m8V5jHlJYXiMmRp0AwQkP9c
+### Data Sources
+- **Original Dataset:**[IEEE DataPort MF-150](https://ieee-dataport.org/open-access/mf-150-multilabel-malaysian-foods-dataset)
+- **Processed Dataset:**[Project Google Drive](https://drive.google.com/drive/folders/1iKM2peSh0m8V5jHlJYXiMmRp0AwQkP9c)
 
 *Note: The dataset uses numeric folder IDs which are mapped to human-readable names via the included `foldernames.csv`.*
 
-## 📂 Project Structure
+## Project Structure
 ```text
 Malaysian-Food-CNN-Classifier/
 │
 ├── notebook/
-│   └── WID3011_Individual_Assignment.ipynb   # Main notebook (training, evaluation, visualization)
+│   └── WID3011_Individual_Assignment.ipynb   # Main pipeline (training, evaluation)
 │
 ├── report/
-│   └── Individual_Assignment_WID3011.pdf     # Full technical report
+│   └── Individual_Assignment_WID3011.pdf     # Technical documentation
 │
 ├── data/
 │   └── processed/
@@ -65,53 +60,71 @@ Malaysian-Food-CNN-Classifier/
 │       ├── test.csv                          # Testing split (15%)
 │       └── meta.json                         # Dataset metadata
 │
-│
-├── results/
+├── results/                                  # Visualization exports
 │   ├── learning_curves.png
-│   ├── confusion_matrix.png
-│   ├── confusion_matrix_custom.png
-│   ├── confusion_matrix_resnet.png
 │   ├── confusion_matrix_comparison.png
-│   └── misclassified_samples.png
+│   ├── misclassified_samples.png
+│   └── augmented_batch.png
 │
 ├── foldernames.csv                           # Class ID → label mapping
 ├── .gitignore
 └── README.md
-```
 
 ## Model Architectures
 
 ### 1. Custom CNN
-* **Structure:** A 5-stage convolutional neural network containing 6 convolutional layers built from scratch[cite: 1].
-* **Parameters:** Approximately 13.28 million parameters[cite: 1].
-* **Design:** Utilizes a VGG-style pattern for the first two stages (two $3\times3$ convolutions) to capture fine-grained textures, followed by single convolutions in deeper layers, max pooling, and dropout (0.5) for regularization[cite: 1].
+* **Structure:** A 5-stage VGG-style network (approx. 13.28M parameters).
+* **Feature Extraction:** Uses dual $3 \times 3$ convolutions in initial stages to capture complex textures, followed by max pooling and 0.5 dropout for regularization.
 
 ### 2. ResNet-50 (Transfer Learning)
-* **Structure:** A pre-trained ResNet-50 model adapted via a 2-stage training strategy[cite: 1].
-* **Training:** Stage 1 involves a head warm-up with a frozen backbone (learning rate of $1\times10^{-3}$), while Stage 2 unfreezes all layers for full end-to-end fine-tuning (learning rate of $1\times10^{-4}$)[cite: 1].
+* **Strategy:** Two-stage training for optimal convergence.
+* **Stage 1:** Head warm-up with a frozen backbone (learning rate of $1 \times 10^{-3}$).
+* **Stage 2:** Full end-to-end fine-tuning (learning rate of $1 \times 10^{-4}$).
 
 ## Results & Performance
 
-Both models were evaluated on an unseen testing set of 147 images[cite: 1]. The fine-tuned ResNet-50 significantly outperformed the custom CNN in both accuracy and convergence speed[cite: 1].
+Evaluated on an unseen testing set of 147 images, the ResNet-50 model significantly outperformed the Custom CNN in both accuracy and training efficiency.
 
 | Metric | Custom CNN | ResNet-50 |
-| :--- | :--- | :--- |
-| **Total Parameters** | 13,281,765 | 23,518,277 |
-| **Best Validation Accuracy** | 93.20% | 100.00% |
-| **Test Accuracy** | 92.52% | 99.32% |
-| **Total Training Time** | 380.3s | 265.2s |
-| **Epochs Trained** | 46 (Early Stopping) | 28 |
+|--------|------------|------------|
+| Total Parameters | 13,281,765 | 23,518,277 |
+| Best Validation Accuracy | 93.20% | 100.00% |
+| Test Accuracy | 92.52% | 99.32% |
+| Training Time | 380.3s | 265.2s |
+| Epochs to Converge | 46 | 28 |
+
+### Key Observations
+* **ResNet-50:** Achieved near-perfect generalization with only 1 misclassification (Chicken Bak Kut Teh mistaken for Char Kuey Teow).
+* **Custom CNN:** Produced 11 misclassifications, primarily struggling with visual similarities between Hong Kong Wonton Noodles and Char Kuey Teow.
 
 *(Note: Ensure you have pushed the image files below to your repository for them to render correctly)*
 
-### Learning Curves
-![Learning Curves](learning_curves.png)
+### Visualizations
 
-### Model Evaluation & Misclassification
-The ResNet-50 model generalized exceptionally well, registering only 1 misclassification (Chicken Bak Kut Teh predicted as Char Kuey Teow)[cite: 1]. The Custom CNN produced 11 misclassifications, struggling primarily with bidirectional confusion between visually similar dishes like Hong Kong Wonton Noodles and Char Kuey Teow[cite: 1].
+**Learning Curves**  
+Visualizes training and validation performance to monitor model convergence.  
+![Learning Curves](results/learning_curves.png)
 
-## Business Application Potential
-This classification model holds practical value for Malaysian Small and Medium Enterprises (SMEs)[cite: 1]:
-* **Auto-tagging for Delivery Apps:** Helping home-based businesses automatically categorize dishes uploaded to GrabFood or Foodpanda[cite: 1].
-* **Snap-and-Order Kiosks:** Assisting tourists in identifying unfamiliar dishes and overcoming language barriers in food courts[cite: 1].
-* **Calorie Tracking:** Pairing the classifier with the Malaysian Food Composition Database (MyFCD) to provide health app users with accurate nutritional estimations[cite: 1].
+**Confusion Matrix Comparison**  
+Highlights class-wise prediction accuracy differences between both models.  
+![Confusion Matrix Comparison](results/confusion_matrix_comparison.png)
+
+**Misclassified Samples**  
+Examples of incorrect predictions, demonstrating the confusion between visually similar classes.  
+![Misclassified Samples](results/misclassified_samples.png)
+
+**Data Augmentation Effects**  
+Displays the data augmentation techniques applied to improve model generalization.  
+![Augmented Batch](results/augmented_batch.png)
+
+## Business Applications
+
+This classification model holds practical value for Malaysian Small and Medium Enterprises (SMEs):
+* **Auto-tagging for Delivery Apps:** Helping home-based businesses automatically categorize dishes for platforms like GrabFood or Foodpanda.
+* **Snap-and-Order Kiosks:** Assisting tourists in identifying unfamiliar dishes in local food courts to overcome language barriers.
+* **Calorie Tracking:** Integration with the Malaysian Food Composition Database (MyFCD) to provide nutritional estimations based on image recognition.
+
+---
+
+## Author
+[Ooi Rui Zhe](https://github.com/RextonRZ)
