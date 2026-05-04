@@ -1,0 +1,8 @@
+# Ignore datasets
+data/raw/
+
+# Ignore model weights
+models/*.pth
+
+# Optional
+*.zip

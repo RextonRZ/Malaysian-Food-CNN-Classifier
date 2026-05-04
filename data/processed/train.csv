@@ -1,0 +1,686 @@
+filepath,class_idx,class_id,class_name
+/content/work/extracted/train/84/21832.jpg,1,84,Satay
+/content/work/extracted/train/133/348.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/84/21940.jpg,1,84,Satay
+/content/work/extracted/train/2/12763.jpg,0,2,Murtabak
+/content/work/extracted/train/84/21927.jpg,1,84,Satay
+/content/work/extracted/train/8/1925.jpg,3,8,Char kuey teow
+/content/work/extracted/train/8/1942.jpg,3,8,Char kuey teow
+/content/work/extracted/train/82/19339.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/test/2/12703.jpg,0,2,Murtabak
+/content/work/extracted/train/8/1836.jpg,3,8,Char kuey teow
+/content/work/extracted/train/8/1924.jpg,3,8,Char kuey teow
+/content/work/extracted/train/2/12720.jpg,0,2,Murtabak
+/content/work/extracted/train/133/349.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/8/1818.jpg,3,8,Char kuey teow
+/content/work/extracted/test/8/1957.jpg,3,8,Char kuey teow
+/content/work/extracted/train/84/21916.jpg,1,84,Satay
+/content/work/extracted/train/2/12724.jpg,0,2,Murtabak
+/content/work/extracted/train/133/400.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/82/19447.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/82/19372.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/8/1943.jpg,3,8,Char kuey teow
+/content/work/extracted/train/82/19448.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/133/378.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/8/1918.jpg,3,8,Char kuey teow
+/content/work/extracted/test/82/19438.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/2/12830.jpg,0,2,Murtabak
+/content/work/extracted/train/8/1872.jpg,3,8,Char kuey teow
+/content/work/extracted/train/84/22020.jpg,1,84,Satay
+/content/work/extracted/train/2/12662.jpg,0,2,Murtabak
+/content/work/extracted/train/8/1887.jpg,3,8,Char kuey teow
+/content/work/extracted/train/2/12681.jpg,0,2,Murtabak
+/content/work/extracted/train/2/12847.jpg,0,2,Murtabak
+/content/work/extracted/train/8/1909.jpg,3,8,Char kuey teow
+/content/work/extracted/train/133/471.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/133/414.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/84/21894.jpg,1,84,Satay
+/content/work/extracted/train/2/12772.jpg,0,2,Murtabak
+/content/work/extracted/train/2/12726.jpg,0,2,Murtabak
+/content/work/extracted/train/133/350.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/84/21907.jpg,1,84,Satay
+/content/work/extracted/train/2/12686.jpg,0,2,Murtabak
+/content/work/extracted/train/2/12788.jpg,0,2,Murtabak
+/content/work/extracted/train/2/12684.jpg,0,2,Murtabak
+/content/work/extracted/train/8/1984.jpg,3,8,Char kuey teow
+/content/work/extracted/test/133/421.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/133/468.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/84/21989.jpg,1,84,Satay
+/content/work/extracted/train/2/12795.jpg,0,2,Murtabak
+/content/work/extracted/train/2/12789.jpg,0,2,Murtabak
+/content/work/extracted/test/82/19385.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/84/21972.jpg,1,84,Satay
+/content/work/extracted/train/2/12698.jpg,0,2,Murtabak
+/content/work/extracted/train/8/1982.jpg,3,8,Char kuey teow
+/content/work/extracted/test/82/19391.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/133/379.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/82/19354.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/8/1969.jpg,3,8,Char kuey teow
+/content/work/extracted/train/84/22002.jpg,1,84,Satay
+/content/work/extracted/train/133/362.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/133/347.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/8/1832.jpg,3,8,Char kuey teow
+/content/work/extracted/train/133/367.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/84/21890.jpg,1,84,Satay
+/content/work/extracted/train/2/12709.jpg,0,2,Murtabak
+/content/work/extracted/train/133/459.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/82/19413.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/84/22009.jpg,1,84,Satay
+/content/work/extracted/train/82/19428.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/82/19426.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/2/12755.jpg,0,2,Murtabak
+/content/work/extracted/train/84/21986.jpg,1,84,Satay
+/content/work/extracted/train/133/338.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/133/335.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/84/21849.jpg,1,84,Satay
+/content/work/extracted/train/133/314.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/133/354.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/133/413.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/2/12760.jpg,0,2,Murtabak
+/content/work/extracted/train/8/1968.jpg,3,8,Char kuey teow
+/content/work/extracted/train/133/381.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/8/1931.jpg,3,8,Char kuey teow
+/content/work/extracted/train/8/1847.jpg,3,8,Char kuey teow
+/content/work/extracted/train/133/429.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/133/430.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/test/84/21874.jpg,1,84,Satay
+/content/work/extracted/train/8/1903.jpg,3,8,Char kuey teow
+/content/work/extracted/train/82/19465.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/84/21869.jpg,1,84,Satay
+/content/work/extracted/train/8/1938.jpg,3,8,Char kuey teow
+/content/work/extracted/train/84/21843.jpg,1,84,Satay
+/content/work/extracted/train/84/21917.jpg,1,84,Satay
+/content/work/extracted/train/2/12621.jpg,0,2,Murtabak
+/content/work/extracted/train/82/19483.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/2/12656.jpg,0,2,Murtabak
+/content/work/extracted/train/84/21951.jpg,1,84,Satay
+/content/work/extracted/train/84/21915.jpg,1,84,Satay
+/content/work/extracted/train/2/12800.jpg,0,2,Murtabak
+/content/work/extracted/train/84/21968.jpg,1,84,Satay
+/content/work/extracted/train/2/12806.jpg,0,2,Murtabak
+/content/work/extracted/train/84/21957.jpg,1,84,Satay
+/content/work/extracted/train/133/346.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/82/19450.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/2/12636.jpg,0,2,Murtabak
+/content/work/extracted/train/82/19330.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/82/19458.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/133/405.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/133/426.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/2/12767.jpg,0,2,Murtabak
+/content/work/extracted/train/8/1886.jpg,3,8,Char kuey teow
+/content/work/extracted/train/2/12776.jpg,0,2,Murtabak
+/content/work/extracted/train/2/12619.jpg,0,2,Murtabak
+/content/work/extracted/train/84/21995.jpg,1,84,Satay
+/content/work/extracted/test/2/12780.jpg,0,2,Murtabak
+/content/work/extracted/train/82/19445.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/2/12838.jpg,0,2,Murtabak
+/content/work/extracted/train/2/12825.jpg,0,2,Murtabak
+/content/work/extracted/train/133/385.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/84/21960.jpg,1,84,Satay
+/content/work/extracted/train/2/12761.jpg,0,2,Murtabak
+/content/work/extracted/train/82/19412.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/8/1894.jpg,3,8,Char kuey teow
+/content/work/extracted/train/2/12700.jpg,0,2,Murtabak
+/content/work/extracted/train/84/21969.jpg,1,84,Satay
+/content/work/extracted/train/2/12608.jpg,0,2,Murtabak
+/content/work/extracted/train/8/1988.jpg,3,8,Char kuey teow
+/content/work/extracted/train/82/19427.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/133/364.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/2/12834.jpg,0,2,Murtabak
+/content/work/extracted/train/2/12665.jpg,0,2,Murtabak
+/content/work/extracted/train/82/19323.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/8/1853.jpg,3,8,Char kuey teow
+/content/work/extracted/train/2/12729.jpg,0,2,Murtabak
+/content/work/extracted/train/8/1873.jpg,3,8,Char kuey teow
+/content/work/extracted/train/2/12609.jpg,0,2,Murtabak
+/content/work/extracted/train/84/21948.jpg,1,84,Satay
+/content/work/extracted/train/84/22010.jpg,1,84,Satay
+/content/work/extracted/train/82/19347.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/84/21854.jpg,1,84,Satay
+/content/work/extracted/train/84/22019.jpg,1,84,Satay
+/content/work/extracted/train/133/359.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/2/12779.jpg,0,2,Murtabak
+/content/work/extracted/train/82/19363.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/82/19468.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/133/361.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/82/19415.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/84/21897.jpg,1,84,Satay
+/content/work/extracted/train/84/21977.jpg,1,84,Satay
+/content/work/extracted/train/82/19405.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/84/22013.jpg,1,84,Satay
+/content/work/extracted/train/133/470.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/133/423.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/2/12719.jpg,0,2,Murtabak
+/content/work/extracted/train/8/1849.jpg,3,8,Char kuey teow
+/content/work/extracted/train/84/21979.jpg,1,84,Satay
+/content/work/extracted/train/8/1955.jpg,3,8,Char kuey teow
+/content/work/extracted/train/82/19456.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/82/19395.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/2/12771.jpg,0,2,Murtabak
+/content/work/extracted/train/84/21877.jpg,1,84,Satay
+/content/work/extracted/train/84/21982.jpg,1,84,Satay
+/content/work/extracted/train/133/437.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/2/12735.jpg,0,2,Murtabak
+/content/work/extracted/train/2/12739.jpg,0,2,Murtabak
+/content/work/extracted/train/2/12803.jpg,0,2,Murtabak
+/content/work/extracted/train/84/22014.jpg,1,84,Satay
+/content/work/extracted/train/8/1986.jpg,3,8,Char kuey teow
+/content/work/extracted/test/82/19484.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/test/84/21966.jpg,1,84,Satay
+/content/work/extracted/train/82/19482.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/2/12676.jpg,0,2,Murtabak
+/content/work/extracted/train/84/21898.jpg,1,84,Satay
+/content/work/extracted/train/8/1848.jpg,3,8,Char kuey teow
+/content/work/extracted/train/2/12764.jpg,0,2,Murtabak
+/content/work/extracted/train/133/358.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/2/12691.jpg,0,2,Murtabak
+/content/work/extracted/train/133/403.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/133/339.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/133/370.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/84/21905.jpg,1,84,Satay
+/content/work/extracted/train/8/1922.jpg,3,8,Char kuey teow
+/content/work/extracted/train/84/21876.jpg,1,84,Satay
+/content/work/extracted/train/2/12794.jpg,0,2,Murtabak
+/content/work/extracted/train/82/19487.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/82/19341.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/82/19481.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/2/12778.jpg,0,2,Murtabak
+/content/work/extracted/train/8/1941.jpg,3,8,Char kuey teow
+/content/work/extracted/train/84/21981.jpg,1,84,Satay
+/content/work/extracted/train/8/1949.jpg,3,8,Char kuey teow
+/content/work/extracted/test/133/375.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/133/371.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/82/19362.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/133/444.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/82/19381.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/8/1828.jpg,3,8,Char kuey teow
+/content/work/extracted/train/82/19394.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/84/21942.jpg,1,84,Satay
+/content/work/extracted/train/8/1963.jpg,3,8,Char kuey teow
+/content/work/extracted/train/2/12670.jpg,0,2,Murtabak
+/content/work/extracted/train/84/21919.jpg,1,84,Satay
+/content/work/extracted/train/8/1951.jpg,3,8,Char kuey teow
+/content/work/extracted/train/2/12824.jpg,0,2,Murtabak
+/content/work/extracted/train/133/388.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/2/12675.jpg,0,2,Murtabak
+/content/work/extracted/train/8/1822.jpg,3,8,Char kuey teow
+/content/work/extracted/train/2/12646.jpg,0,2,Murtabak
+/content/work/extracted/train/82/19345.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/8/1912.jpg,3,8,Char kuey teow
+/content/work/extracted/train/8/1825.jpg,3,8,Char kuey teow
+/content/work/extracted/train/84/21936.jpg,1,84,Satay
+/content/work/extracted/train/82/19332.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/2/12677.jpg,0,2,Murtabak
+/content/work/extracted/train/2/12638.jpg,0,2,Murtabak
+/content/work/extracted/train/84/21943.jpg,1,84,Satay
+/content/work/extracted/train/133/440.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/84/21909.jpg,1,84,Satay
+/content/work/extracted/train/2/12627.jpg,0,2,Murtabak
+/content/work/extracted/train/133/422.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/test/133/443.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/133/455.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/84/22012.jpg,1,84,Satay
+/content/work/extracted/train/2/12781.jpg,0,2,Murtabak
+/content/work/extracted/train/82/19439.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/2/12655.jpg,0,2,Murtabak
+/content/work/extracted/train/82/19446.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/84/21908.jpg,1,84,Satay
+/content/work/extracted/train/2/12783.jpg,0,2,Murtabak
+/content/work/extracted/train/133/343.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/133/366.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/82/19437.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/8/1879.jpg,3,8,Char kuey teow
+/content/work/extracted/train/8/1852.jpg,3,8,Char kuey teow
+/content/work/extracted/train/8/1875.jpg,3,8,Char kuey teow
+/content/work/extracted/test/2/12833.jpg,0,2,Murtabak
+/content/work/extracted/train/82/19489.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/2/12822.jpg,0,2,Murtabak
+/content/work/extracted/train/82/19474.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/8/1956.jpg,3,8,Char kuey teow
+/content/work/extracted/train/8/1889.jpg,3,8,Char kuey teow
+/content/work/extracted/train/8/1870.jpg,3,8,Char kuey teow
+/content/work/extracted/train/8/1843.jpg,3,8,Char kuey teow
+/content/work/extracted/train/84/21992.jpg,1,84,Satay
+/content/work/extracted/train/2/12791.jpg,0,2,Murtabak
+/content/work/extracted/train/133/485.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/84/22006.jpg,1,84,Satay
+/content/work/extracted/train/133/406.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/82/19335.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/8/1874.jpg,3,8,Char kuey teow
+/content/work/extracted/train/84/21889.jpg,1,84,Satay
+/content/work/extracted/train/84/21887.jpg,1,84,Satay
+/content/work/extracted/train/84/21975.jpg,1,84,Satay
+/content/work/extracted/train/82/19349.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/8/1816.jpg,3,8,Char kuey teow
+/content/work/extracted/train/2/12667.jpg,0,2,Murtabak
+/content/work/extracted/train/2/12632.jpg,0,2,Murtabak
+/content/work/extracted/train/8/1972.jpg,3,8,Char kuey teow
+/content/work/extracted/train/133/377.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/8/1928.jpg,3,8,Char kuey teow
+/content/work/extracted/train/84/22026.jpg,1,84,Satay
+/content/work/extracted/test/8/1856.jpg,3,8,Char kuey teow
+/content/work/extracted/train/82/19390.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/133/402.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/2/12751.jpg,0,2,Murtabak
+/content/work/extracted/test/8/1839.jpg,3,8,Char kuey teow
+/content/work/extracted/train/8/1974.jpg,3,8,Char kuey teow
+/content/work/extracted/train/8/1981.jpg,3,8,Char kuey teow
+/content/work/extracted/train/84/21954.jpg,1,84,Satay
+/content/work/extracted/train/8/1902.jpg,3,8,Char kuey teow
+/content/work/extracted/train/82/19375.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/133/410.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/82/19449.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/8/1815.jpg,3,8,Char kuey teow
+/content/work/extracted/train/2/12840.jpg,0,2,Murtabak
+/content/work/extracted/train/84/21885.jpg,1,84,Satay
+/content/work/extracted/train/2/12807.jpg,0,2,Murtabak
+/content/work/extracted/train/8/1823.jpg,3,8,Char kuey teow
+/content/work/extracted/train/82/19343.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/2/12659.jpg,0,2,Murtabak
+/content/work/extracted/train/82/19440.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/82/19325.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/133/456.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/82/19371.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/84/22011.jpg,1,84,Satay
+/content/work/extracted/train/84/21844.jpg,1,84,Satay
+/content/work/extracted/train/82/19435.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/133/401.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/82/19433.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/8/1945.jpg,3,8,Char kuey teow
+/content/work/extracted/test/8/1862.jpg,3,8,Char kuey teow
+/content/work/extracted/train/82/19436.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/2/12671.jpg,0,2,Murtabak
+/content/work/extracted/train/84/21910.jpg,1,84,Satay
+/content/work/extracted/train/2/12694.jpg,0,2,Murtabak
+/content/work/extracted/train/133/353.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/2/12745.jpg,0,2,Murtabak
+/content/work/extracted/train/2/12855.jpg,0,2,Murtabak
+/content/work/extracted/train/84/21884.jpg,1,84,Satay
+/content/work/extracted/train/2/12842.jpg,0,2,Murtabak
+/content/work/extracted/train/2/12799.jpg,0,2,Murtabak
+/content/work/extracted/train/2/12736.jpg,0,2,Murtabak
+/content/work/extracted/test/2/12668.jpg,0,2,Murtabak
+/content/work/extracted/train/8/1978.jpg,3,8,Char kuey teow
+/content/work/extracted/train/8/1936.jpg,3,8,Char kuey teow
+/content/work/extracted/train/8/1841.jpg,3,8,Char kuey teow
+/content/work/extracted/test/82/19340.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/8/1854.jpg,3,8,Char kuey teow
+/content/work/extracted/train/133/434.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/82/19338.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/test/2/12679.jpg,0,2,Murtabak
+/content/work/extracted/train/84/21945.jpg,1,84,Satay
+/content/work/extracted/train/2/12848.jpg,0,2,Murtabak
+/content/work/extracted/train/133/310.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/133/328.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/test/133/391.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/2/12742.jpg,0,2,Murtabak
+/content/work/extracted/train/133/481.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/8/1814.jpg,3,8,Char kuey teow
+/content/work/extracted/train/8/1934.jpg,3,8,Char kuey teow
+/content/work/extracted/train/133/331.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/8/1824.jpg,3,8,Char kuey teow
+/content/work/extracted/train/82/19406.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/133/340.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/84/21830.jpg,1,84,Satay
+/content/work/extracted/train/82/19457.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/84/21848.jpg,1,84,Satay
+/content/work/extracted/train/82/19366.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/test/133/374.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/2/12692.jpg,0,2,Murtabak
+/content/work/extracted/train/2/12672.jpg,0,2,Murtabak
+/content/work/extracted/train/8/1939.jpg,3,8,Char kuey teow
+/content/work/extracted/train/133/365.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/test/8/1901.jpg,3,8,Char kuey teow
+/content/work/extracted/test/84/21984.jpg,1,84,Satay
+/content/work/extracted/train/84/21962.jpg,1,84,Satay
+/content/work/extracted/train/82/19380.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/84/21829.jpg,1,84,Satay
+/content/work/extracted/train/8/1989.jpg,3,8,Char kuey teow
+/content/work/extracted/train/2/12688.jpg,0,2,Murtabak
+/content/work/extracted/train/8/1821.jpg,3,8,Char kuey teow
+/content/work/extracted/train/82/19453.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/84/21985.jpg,1,84,Satay
+/content/work/extracted/train/2/12723.jpg,0,2,Murtabak
+/content/work/extracted/test/133/469.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/84/21938.jpg,1,84,Satay
+/content/work/extracted/train/82/19398.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/test/84/22001.jpg,1,84,Satay
+/content/work/extracted/train/84/21836.jpg,1,84,Satay
+/content/work/extracted/train/84/21996.jpg,1,84,Satay
+/content/work/extracted/train/84/21988.jpg,1,84,Satay
+/content/work/extracted/test/82/19470.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/2/12768.jpg,0,2,Murtabak
+/content/work/extracted/train/2/12737.jpg,0,2,Murtabak
+/content/work/extracted/test/2/12816.jpg,0,2,Murtabak
+/content/work/extracted/train/84/21924.jpg,1,84,Satay
+/content/work/extracted/test/2/12639.jpg,0,2,Murtabak
+/content/work/extracted/train/8/1895.jpg,3,8,Char kuey teow
+/content/work/extracted/train/8/1865.jpg,3,8,Char kuey teow
+/content/work/extracted/train/84/21871.jpg,1,84,Satay
+/content/work/extracted/train/133/312.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/2/12673.jpg,0,2,Murtabak
+/content/work/extracted/train/84/21952.jpg,1,84,Satay
+/content/work/extracted/test/82/19485.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/84/21997.jpg,1,84,Satay
+/content/work/extracted/train/8/1937.jpg,3,8,Char kuey teow
+/content/work/extracted/train/2/12707.jpg,0,2,Murtabak
+/content/work/extracted/train/133/325.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/133/477.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/8/1835.jpg,3,8,Char kuey teow
+/content/work/extracted/train/8/1953.jpg,3,8,Char kuey teow
+/content/work/extracted/train/2/12634.jpg,0,2,Murtabak
+/content/work/extracted/train/2/12758.jpg,0,2,Murtabak
+/content/work/extracted/train/8/1831.jpg,3,8,Char kuey teow
+/content/work/extracted/train/2/12750.jpg,0,2,Murtabak
+/content/work/extracted/train/2/12837.jpg,0,2,Murtabak
+/content/work/extracted/train/2/12743.jpg,0,2,Murtabak
+/content/work/extracted/test/82/19416.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/82/19358.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/133/419.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/82/19478.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/test/2/12856.jpg,0,2,Murtabak
+/content/work/extracted/train/133/407.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/8/1911.jpg,3,8,Char kuey teow
+/content/work/extracted/train/133/351.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/133/482.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/2/12813.jpg,0,2,Murtabak
+/content/work/extracted/train/2/12633.jpg,0,2,Murtabak
+/content/work/extracted/train/82/19443.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/2/12625.jpg,0,2,Murtabak
+/content/work/extracted/train/2/12820.jpg,0,2,Murtabak
+/content/work/extracted/train/84/21959.jpg,1,84,Satay
+/content/work/extracted/train/84/21865.jpg,1,84,Satay
+/content/work/extracted/test/84/21837.jpg,1,84,Satay
+/content/work/extracted/train/84/21833.jpg,1,84,Satay
+/content/work/extracted/train/82/19455.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/84/21973.jpg,1,84,Satay
+/content/work/extracted/train/84/21899.jpg,1,84,Satay
+/content/work/extracted/train/2/12850.jpg,0,2,Murtabak
+/content/work/extracted/train/2/12839.jpg,0,2,Murtabak
+/content/work/extracted/test/2/12821.jpg,0,2,Murtabak
+/content/work/extracted/train/133/417.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/2/12631.jpg,0,2,Murtabak
+/content/work/extracted/train/133/450.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/84/21976.jpg,1,84,Satay
+/content/work/extracted/train/84/21918.jpg,1,84,Satay
+/content/work/extracted/train/2/12713.jpg,0,2,Murtabak
+/content/work/extracted/train/8/1910.jpg,3,8,Char kuey teow
+/content/work/extracted/train/2/12797.jpg,0,2,Murtabak
+/content/work/extracted/train/8/1908.jpg,3,8,Char kuey teow
+/content/work/extracted/train/2/12808.jpg,0,2,Murtabak
+/content/work/extracted/train/8/1896.jpg,3,8,Char kuey teow
+/content/work/extracted/train/2/12814.jpg,0,2,Murtabak
+/content/work/extracted/train/84/21929.jpg,1,84,Satay
+/content/work/extracted/train/133/319.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/8/1829.jpg,3,8,Char kuey teow
+/content/work/extracted/test/133/415.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/2/12730.jpg,0,2,Murtabak
+/content/work/extracted/train/84/22015.jpg,1,84,Satay
+/content/work/extracted/train/133/352.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/8/1927.jpg,3,8,Char kuey teow
+/content/work/extracted/train/84/22024.jpg,1,84,Satay
+/content/work/extracted/train/84/21990.jpg,1,84,Satay
+/content/work/extracted/train/82/19463.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/2/12734.jpg,0,2,Murtabak
+/content/work/extracted/train/82/19429.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/2/12836.jpg,0,2,Murtabak
+/content/work/extracted/train/84/21835.jpg,1,84,Satay
+/content/work/extracted/train/8/1946.jpg,3,8,Char kuey teow
+/content/work/extracted/train/84/21912.jpg,1,84,Satay
+/content/work/extracted/train/82/19442.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/133/341.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/84/21863.jpg,1,84,Satay
+/content/work/extracted/train/84/22022.jpg,1,84,Satay
+/content/work/extracted/test/8/1923.jpg,3,8,Char kuey teow
+/content/work/extracted/train/2/12818.jpg,0,2,Murtabak
+/content/work/extracted/train/2/12796.jpg,0,2,Murtabak
+/content/work/extracted/train/84/21963.jpg,1,84,Satay
+/content/work/extracted/train/8/1930.jpg,3,8,Char kuey teow
+/content/work/extracted/train/2/12846.jpg,0,2,Murtabak
+/content/work/extracted/train/133/432.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/133/344.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/test/2/12731.jpg,0,2,Murtabak
+/content/work/extracted/test/2/12622.jpg,0,2,Murtabak
+/content/work/extracted/train/2/12817.jpg,0,2,Murtabak
+/content/work/extracted/train/2/12815.jpg,0,2,Murtabak
+/content/work/extracted/train/8/1906.jpg,3,8,Char kuey teow
+/content/work/extracted/train/84/22016.jpg,1,84,Satay
+/content/work/extracted/train/133/480.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/2/12704.jpg,0,2,Murtabak
+/content/work/extracted/train/133/484.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/84/21947.jpg,1,84,Satay
+/content/work/extracted/train/84/21994.jpg,1,84,Satay
+/content/work/extracted/train/133/382.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/8/1899.jpg,3,8,Char kuey teow
+/content/work/extracted/train/82/19430.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/8/1900.jpg,3,8,Char kuey teow
+/content/work/extracted/train/133/317.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/82/19382.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/2/12637.jpg,0,2,Murtabak
+/content/work/extracted/train/8/1967.jpg,3,8,Char kuey teow
+/content/work/extracted/train/82/19344.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/2/12630.jpg,0,2,Murtabak
+/content/work/extracted/test/2/12747.jpg,0,2,Murtabak
+/content/work/extracted/train/82/19388.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/8/1842.jpg,3,8,Char kuey teow
+/content/work/extracted/train/82/19386.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/2/12648.jpg,0,2,Murtabak
+/content/work/extracted/train/82/19327.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/82/19400.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/test/2/12762.jpg,0,2,Murtabak
+/content/work/extracted/train/82/19479.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/test/84/21920.jpg,1,84,Satay
+/content/work/extracted/train/84/21841.jpg,1,84,Satay
+/content/work/extracted/train/2/12782.jpg,0,2,Murtabak
+/content/work/extracted/train/133/383.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/84/21906.jpg,1,84,Satay
+/content/work/extracted/train/8/1838.jpg,3,8,Char kuey teow
+/content/work/extracted/train/8/1881.jpg,3,8,Char kuey teow
+/content/work/extracted/train/8/1864.jpg,3,8,Char kuey teow
+/content/work/extracted/train/133/462.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/test/84/21965.jpg,1,84,Satay
+/content/work/extracted/test/8/1921.jpg,3,8,Char kuey teow
+/content/work/extracted/train/133/332.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/2/12643.jpg,0,2,Murtabak
+/content/work/extracted/train/82/19403.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/test/82/19414.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/84/21978.jpg,1,84,Satay
+/content/work/extracted/test/8/1850.jpg,3,8,Char kuey teow
+/content/work/extracted/train/8/1827.jpg,3,8,Char kuey teow
+/content/work/extracted/train/8/1985.jpg,3,8,Char kuey teow
+/content/work/extracted/train/2/12650.jpg,0,2,Murtabak
+/content/work/extracted/train/8/1820.jpg,3,8,Char kuey teow
+/content/work/extracted/train/133/449.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/2/12785.jpg,0,2,Murtabak
+/content/work/extracted/train/133/453.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/8/1897.jpg,3,8,Char kuey teow
+/content/work/extracted/train/8/1890.jpg,3,8,Char kuey teow
+/content/work/extracted/train/84/21998.jpg,1,84,Satay
+/content/work/extracted/train/84/21838.jpg,1,84,Satay
+/content/work/extracted/train/2/12853.jpg,0,2,Murtabak
+/content/work/extracted/train/133/431.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/2/12756.jpg,0,2,Murtabak
+/content/work/extracted/train/133/416.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/84/21860.jpg,1,84,Satay
+/content/work/extracted/train/133/425.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/82/19350.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/133/390.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/8/1845.jpg,3,8,Char kuey teow
+/content/work/extracted/train/2/12628.jpg,0,2,Murtabak
+/content/work/extracted/test/84/21880.jpg,1,84,Satay
+/content/work/extracted/test/2/12710.jpg,0,2,Murtabak
+/content/work/extracted/train/2/12716.jpg,0,2,Murtabak
+/content/work/extracted/train/8/1863.jpg,3,8,Char kuey teow
+/content/work/extracted/train/8/1857.jpg,3,8,Char kuey teow
+/content/work/extracted/train/84/21970.jpg,1,84,Satay
+/content/work/extracted/train/84/21828.jpg,1,84,Satay
+/content/work/extracted/train/82/19378.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/2/12851.jpg,0,2,Murtabak
+/content/work/extracted/train/2/12711.jpg,0,2,Murtabak
+/content/work/extracted/train/133/411.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/2/12696.jpg,0,2,Murtabak
+/content/work/extracted/train/84/21902.jpg,1,84,Satay
+/content/work/extracted/train/8/1907.jpg,3,8,Char kuey teow
+/content/work/extracted/train/133/476.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/84/21956.jpg,1,84,Satay
+/content/work/extracted/train/8/1826.jpg,3,8,Char kuey teow
+/content/work/extracted/train/2/12620.jpg,0,2,Murtabak
+/content/work/extracted/train/82/19425.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/133/408.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/84/21980.jpg,1,84,Satay
+/content/work/extracted/train/82/19420.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/133/460.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/133/454.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/8/1846.jpg,3,8,Char kuey teow
+/content/work/extracted/train/8/1960.jpg,3,8,Char kuey teow
+/content/work/extracted/train/133/478.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/2/12754.jpg,0,2,Murtabak
+/content/work/extracted/train/133/464.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/2/12687.jpg,0,2,Murtabak
+/content/work/extracted/train/2/12610.jpg,0,2,Murtabak
+/content/work/extracted/train/8/1962.jpg,3,8,Char kuey teow
+/content/work/extracted/train/2/12827.jpg,0,2,Murtabak
+/content/work/extracted/train/2/12708.jpg,0,2,Murtabak
+/content/work/extracted/train/84/21882.jpg,1,84,Satay
+/content/work/extracted/train/84/21933.jpg,1,84,Satay
+/content/work/extracted/train/2/12660.jpg,0,2,Murtabak
+/content/work/extracted/test/8/1844.jpg,3,8,Char kuey teow
+/content/work/extracted/train/84/22017.jpg,1,84,Satay
+/content/work/extracted/train/2/12706.jpg,0,2,Murtabak
+/content/work/extracted/train/82/19367.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/test/82/19397.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/test/8/1885.jpg,3,8,Char kuey teow
+/content/work/extracted/train/133/397.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/133/333.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/8/1840.jpg,3,8,Char kuey teow
+/content/work/extracted/train/82/19488.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/133/441.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/test/2/12615.jpg,0,2,Murtabak
+/content/work/extracted/train/8/1966.jpg,3,8,Char kuey teow
+/content/work/extracted/train/84/21879.jpg,1,84,Satay
+/content/work/extracted/train/2/12805.jpg,0,2,Murtabak
+/content/work/extracted/train/84/21974.jpg,1,84,Satay
+/content/work/extracted/train/133/457.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/84/21939.jpg,1,84,Satay
+/content/work/extracted/train/82/19321.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/84/21932.jpg,1,84,Satay
+/content/work/extracted/train/133/445.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/133/376.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/82/19441.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/2/12674.jpg,0,2,Murtabak
+/content/work/extracted/train/84/21901.jpg,1,84,Satay
+/content/work/extracted/test/82/19348.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/82/19402.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/133/363.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/133/324.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/84/21922.jpg,1,84,Satay
+/content/work/extracted/train/82/19329.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/8/1877.jpg,3,8,Char kuey teow
+/content/work/extracted/train/2/12661.jpg,0,2,Murtabak
+/content/work/extracted/train/2/12718.jpg,0,2,Murtabak
+/content/work/extracted/test/133/326.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/2/12728.jpg,0,2,Murtabak
+/content/work/extracted/train/2/12629.jpg,0,2,Murtabak
+/content/work/extracted/train/2/12738.jpg,0,2,Murtabak
+/content/work/extracted/train/82/19410.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/133/334.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/8/1869.jpg,3,8,Char kuey teow
+/content/work/extracted/train/84/22023.jpg,1,84,Satay
+/content/work/extracted/train/2/12752.jpg,0,2,Murtabak
+/content/work/extracted/train/84/21961.jpg,1,84,Satay
+/content/work/extracted/train/133/357.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/test/133/396.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/84/21946.jpg,1,84,Satay
+/content/work/extracted/train/133/424.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/82/19368.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/test/2/12644.jpg,0,2,Murtabak
+/content/work/extracted/train/82/19418.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/82/19326.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/2/12854.jpg,0,2,Murtabak
+/content/work/extracted/train/2/12682.jpg,0,2,Murtabak
+/content/work/extracted/train/84/21834.jpg,1,84,Satay
+/content/work/extracted/train/84/22004.jpg,1,84,Satay
+/content/work/extracted/train/82/19480.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/82/19361.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/2/12773.jpg,0,2,Murtabak
+/content/work/extracted/train/133/451.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/2/12613.jpg,0,2,Murtabak
+/content/work/extracted/train/82/19417.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/84/21861.jpg,1,84,Satay
+/content/work/extracted/train/82/19473.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/82/19434.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/84/21831.jpg,1,84,Satay
+/content/work/extracted/train/84/21991.jpg,1,84,Satay
+/content/work/extracted/train/2/12823.jpg,0,2,Murtabak
+/content/work/extracted/train/2/12766.jpg,0,2,Murtabak
+/content/work/extracted/train/8/1884.jpg,3,8,Char kuey teow
+/content/work/extracted/train/8/1932.jpg,3,8,Char kuey teow
+/content/work/extracted/train/82/19431.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/84/21850.jpg,1,84,Satay
+/content/work/extracted/train/84/22018.jpg,1,84,Satay
+/content/work/extracted/train/82/19336.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/133/330.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/2/12786.jpg,0,2,Murtabak
+/content/work/extracted/train/133/488.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/82/19396.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/2/12612.jpg,0,2,Murtabak
+/content/work/extracted/train/133/427.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/84/21842.jpg,1,84,Satay
+/content/work/extracted/train/8/1980.jpg,3,8,Char kuey teow
+/content/work/extracted/train/84/21881.jpg,1,84,Satay
+/content/work/extracted/train/82/19404.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/2/12819.jpg,0,2,Murtabak
+/content/work/extracted/train/8/1916.jpg,3,8,Char kuey teow
+/content/work/extracted/train/8/1892.jpg,3,8,Char kuey teow
+/content/work/extracted/train/8/1929.jpg,3,8,Char kuey teow
+/content/work/extracted/train/84/21846.jpg,1,84,Satay
+/content/work/extracted/train/133/308.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/82/19408.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/84/21896.jpg,1,84,Satay
+/content/work/extracted/train/2/12811.jpg,0,2,Murtabak
+/content/work/extracted/train/2/12715.jpg,0,2,Murtabak
+/content/work/extracted/train/82/19475.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/8/1971.jpg,3,8,Char kuey teow
+/content/work/extracted/train/84/21888.jpg,1,84,Satay
+/content/work/extracted/train/2/12689.jpg,0,2,Murtabak
+/content/work/extracted/train/2/12727.jpg,0,2,Murtabak
+/content/work/extracted/train/82/19454.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/2/12774.jpg,0,2,Murtabak
+/content/work/extracted/train/133/473.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/82/19421.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/8/1958.jpg,3,8,Char kuey teow
+/content/work/extracted/train/82/19352.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/84/21944.jpg,1,84,Satay
+/content/work/extracted/train/82/19353.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/133/369.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/2/12701.jpg,0,2,Murtabak
+/content/work/extracted/train/2/12790.jpg,0,2,Murtabak
+/content/work/extracted/train/82/19384.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/2/12649.jpg,0,2,Murtabak
+/content/work/extracted/train/82/19359.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/133/435.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/2/12624.jpg,0,2,Murtabak
+/content/work/extracted/train/133/486.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/2/12787.jpg,0,2,Murtabak
+/content/work/extracted/train/2/12697.jpg,0,2,Murtabak
+/content/work/extracted/train/84/21851.jpg,1,84,Satay
+/content/work/extracted/train/84/21937.jpg,1,84,Satay
+/content/work/extracted/train/84/21930.jpg,1,84,Satay
+/content/work/extracted/train/133/327.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/82/19369.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/133/356.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/84/21941.jpg,1,84,Satay
+/content/work/extracted/train/8/1948.jpg,3,8,Char kuey teow
+/content/work/extracted/train/8/1813.jpg,3,8,Char kuey teow
+/content/work/extracted/train/82/19357.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/2/12695.jpg,0,2,Murtabak
+/content/work/extracted/train/8/1940.jpg,3,8,Char kuey teow
+/content/work/extracted/train/133/329.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/133/316.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/84/21913.jpg,1,84,Satay
+/content/work/extracted/train/133/387.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/82/19346.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/2/12843.jpg,0,2,Murtabak
+/content/work/extracted/train/82/19328.jpg,4,82,Hong Kong Wonton noodles
+/content/work/extracted/train/133/466.jpg,2,133,Chicken bak kut teh (Ayam bak kut teh)
+/content/work/extracted/train/8/1933.jpg,3,8,Char kuey teow

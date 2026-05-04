@@ -1,0 +1,32 @@
+{
+  "selected_class_ids": [
+    2,
+    84,
+    133,
+    8,
+    82
+  ],
+  "class_names": [
+    "Murtabak",
+    "Satay",
+    "Chicken bak kut teh (Ayam bak kut teh)",
+    "Char kuey teow",
+    "Hong Kong Wonton noodles"
+  ],
+  "num_classes": 5,
+  "image_size": 224,
+  "class_weights": [
+    0.7873563218390804,
+    0.9785714285714285,
+    1.078740157480315,
+    1.096,
+    1.1512605042016806
+  ],
+  "split_sizes": {
+    "train": 685,
+    "val": 147,
+    "test": 147
+  },
+  "imbalance_ratio_train": 1.4621848739495797,
+  "random_seed": 42
+}
