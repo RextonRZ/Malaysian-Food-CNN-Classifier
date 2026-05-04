@@ -38,7 +38,7 @@ The models are trained on a curated subset of the **IEEE DataPort MF-150 Multila
 * **Pre-processing:** Class-weighted cross-entropy loss was implemented to handle inherent dataset imbalances.
 
 ### Data Sources
-- **Original Dataset:**[IEEE DataPort MF-150](https://ieee-dataport.org/open-access/mf-150-multilabel-malaysian-foods-dataset)
+- **Original Dataset:**[IEEE DataPort MF-150](https://ieee-dataport.org/open-access/mf-150-multilabel-malaysian-foods-dataset-ingredient-detection)
 - **Processed Dataset:**[Project Google Drive](https://drive.google.com/drive/folders/1iKM2peSh0m8V5jHlJYXiMmRp0AwQkP9c)
 
 *Note: The dataset uses numeric folder IDs which are mapped to human-readable names via the included `foldernames.csv`.*
@@ -69,6 +69,7 @@ Malaysian-Food-CNN-Classifier/
 ├── foldernames.csv                           # Class ID → label mapping
 ├── .gitignore
 └── README.md
+```
 
 ## Model Architectures
 
