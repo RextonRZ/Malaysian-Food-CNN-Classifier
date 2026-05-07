@@ -1,7 +1,7 @@
 <h1 align="center">Malaysian Food Image Classifier 🍛</h1>
 
 <p align="center">
-  A Deep Learning project comparing a Custom CNN and a fine-tuned ResNet-50 for recognizing popular Malaysian cuisine.
+  <strong>A Deep Learning project comparing a Custom CNN and a fine-tuned ResNet-50 for recognizing popular Malaysian cuisine.</strong>
 </p>
 
 <p align="center">
