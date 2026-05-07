@@ -1,10 +1,10 @@
-<h1 align="center">Malaysian Food Image Classifier 🍛</h1>
+<h1>Malaysian Food Image Classifier </h1>
 
-<p align="center">
+<p>
   <strong>A Deep Learning project comparing a Custom CNN and a fine-tuned ResNet-50 for recognizing popular Malaysian cuisine.</strong>
 </p>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Python-3.8+-blue.svg" alt="Python">
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white" alt="Jupyter">
